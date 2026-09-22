@@ -37,7 +37,7 @@
 | 2 | **Arbitrum Builders Bounty** — Stackup x Arbitrum (Dec 2024) | 🥉 3rd Place |
 | 1 | **StackUp September Coding Challenge** — AngelHack (Sep 2024) | 10th Place |
 
-## Connect with me
+## Connect with me.  
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/f_adex_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielfadehan) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_f.adex_) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fadexadex) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/_fadex_)
 
