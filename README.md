@@ -9,7 +9,7 @@
   </a>
 </p>
 
-## About
+## About.     
 
 - Currently building: [Campor](https://www.campor.live/)
 - Learning: **Agentic engineering**, **AI agent orchestration**, **problem solving**
