@@ -3,7 +3,7 @@
   <strong>Programmer</strong> · <strong>Entrepreneur</strong>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fadexadex&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dexianx&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <a href="https://twitter.com/f_adex_" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Follow-@f_adex_-111111?style=for-the-badge&logo=x&logoColor=white" alt="Follow @f_adex_ on X" />
   </a>
